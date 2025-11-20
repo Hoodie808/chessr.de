@@ -1,0 +1,3 @@
+npm install
+npm run build       # baut die Seiten
+npm run export      # exportiert statische HTML-Dateien in "out/"
